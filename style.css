@@ -1,0 +1,31 @@
+h1, p{
+    margin-left: 200px;
+}
+h1{
+    font-size: 70px;
+}
+p{
+    font-size: 40px;
+}
+span{
+    color: blueviolet;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+}
+nav ul li{
+    border: 1px solid blue;
+    padding:10px;
+    list-style-type:none ;
+    display: inline;
+}
+img{
+    height: 300px;
+    width: 450px;
+}
+a{
+    text-decoration: none;
+}
